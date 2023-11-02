@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 9072e8eeeb5859a4f84fbe9d29f9cc95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1178005817926227622
+    second: "\u2014Pngtree\u2014diwali festive fireworks sparkles_6867745_0"
+  - first:
+      213: -3792697551384991938
+    second: "\u2014Pngtree\u2014diwali festive fireworks sparkles_6867745_1"
+  - first:
+      213: -243494053094076313
+    second: "\u2014Pngtree\u2014diwali festive fireworks sparkles_6867745_2"
+  - first:
+      213: -2694545351714772983
+    second: "\u2014Pngtree\u2014diwali festive fireworks sparkles_6867745_3"
+  - first:
+      213: -3720592325895972916
+    second: "\u2014Pngtree\u2014diwali festive fireworks sparkles_6867745_4"
+  - first:
+      213: -7892359448939185770
+    second: "\u2014Pngtree\u2014diwali festive fireworks sparkles_6867745_6"
+  - first:
+      213: -1092248142621656433
+    second: "\u2014Pngtree\u2014diwali festive fireworks sparkles_6867745_7"
+  - first:
+      213: 6716604317931383083
+    second: "\u2014Pngtree\u2014diwali festive fireworks sparkles_6867745_9"
+  - first:
+      213: 2789102085602285893
+    second: "\u2014Pngtree\u2014diwali festive fireworks sparkles_6867745_11"
+  - first:
+      213: -5607802952342186020
+    second: "\u2014Pngtree\u2014diwali festive fireworks sparkles_6867745_12"
+  - first:
+      213: 2261388043170507908
+    second: "\u2014Pngtree\u2014diwali festive fireworks sparkles_6867745_14"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014diwali festive fireworks sparkles_6867745_0"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2017
+        width: 600
+        height: 975
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a616d0dc0e195010800000000000000
+      internalID: 1178005817926227622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014diwali festive fireworks sparkles_6867745_1"
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2000
+        width: 296
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37243deba1ad5bc0800000000000000
+      internalID: -3792697551384991938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014diwali festive fireworks sparkles_6867745_2"
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 2077
+        width: 706
+        height: 923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7605864e27fee9cf0800000000000000
+      internalID: -243494053094076313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014diwali festive fireworks sparkles_6867745_3"
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 2085
+        width: 284
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9086cd7674d0b9ad0800000000000000
+      internalID: -2694545351714772983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014diwali festive fireworks sparkles_6867745_4"
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 2053
+        width: 573
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc71decfdfccd5cc0800000000000000
+      internalID: -3720592325895972916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014diwali festive fireworks sparkles_6867745_6"
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1123
+        width: 600
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699384e85e4b87290800000000000000
+      internalID: -7892359448939185770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014diwali festive fireworks sparkles_6867745_7"
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1000
+        width: 906
+        height: 1045
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ab47ce91e87d0f0800000000000000
+      internalID: -1092248142621656433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014diwali festive fireworks sparkles_6867745_9"
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 1123
+        width: 761
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29a7238a0c263d50800000000000000
+      internalID: 6716604317931383083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014diwali festive fireworks sparkles_6867745_11"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 95
+        width: 911
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54910aec191e4b620800000000000000
+      internalID: 2789102085602285893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014diwali festive fireworks sparkles_6867745_12"
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 56
+        width: 867
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7d14f1de41d22b0800000000000000
+      internalID: -5607802952342186020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014diwali festive fireworks sparkles_6867745_14"
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 144
+        width: 935
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c6e74a170126f10800000000000000
+      internalID: 2261388043170507908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
