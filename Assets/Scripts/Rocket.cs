@@ -13,6 +13,8 @@ public class Rocket : MonoBehaviour, IFireCracackerBurst
     public UnityEvent OnExEvent = new UnityEvent();
     [SerializeField]
     private VisualEffect effect;
+    private AudioSource RocketSound;
+
 
 
     bool IsPlaying = false;
@@ -20,7 +22,7 @@ public class Rocket : MonoBehaviour, IFireCracackerBurst
 
     public void Start()
     {
-        
+        RocketSound = GetComponent<AudioSource>();
     }
     void IFireCracackerBurst.ExecuteFireCracker()
     {
@@ -37,6 +39,7 @@ public class Rocket : MonoBehaviour, IFireCracackerBurst
             OnExEvent.Invoke();
             Invoke("PlayRocketEffect", 1f);
             used = true;
+            Invoke("PlaySoundEffect", 0f);
         }
         //implementation here
     }
@@ -51,5 +54,9 @@ public class Rocket : MonoBehaviour, IFireCracackerBurst
 
        effect.Stop();
     }
-   
+    private void PlaySoundEffect()
+    {
+        RocketSound.Play();
+    }
+
 }

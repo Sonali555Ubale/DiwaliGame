@@ -9,11 +9,36 @@ public class Bomb : MonoBehaviour, IFireCracackerBurst
     [SerializeField]
     public UnityEvent OnExEvent = new UnityEvent();
     private bool used = false;
+    private AudioSource Explosion;
+    public float delay = 0f;
+    float timer;
+
+    public void Start()
+    {
+        Explosion = GetComponent<AudioSource>();
+    }
+
+    void Update()
+    {
+        timer += Time.deltaTime;
+       
+    }
     private void ExecuteFireCracker()
     {
         Debug.Log("Bomb Executing!!");
-        if (!used) { OnExEvent.Invoke(); used = true; }
-        //implementation here
+        if (!used) {
+            if (timer > delay)
+            {
+                OnExEvent.Invoke(); used = true;
+                Invoke("PlaySoundEffect", 0f);
+            }
+            
+        }
+       
+    }
+    private void PlaySoundEffect()
+    {
+       Explosion.Play();
     }
     public void OnTriggerEnter2D(Collider2D collision)
     {

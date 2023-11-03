@@ -115,7 +115,7 @@ public class PlayerMovement1 : MonoBehaviour
         if (!ParticleFacegRight)
         {
 
-            p.transform.localRotation = Quaternion.Euler(-1.0f, 60.0f, -90.0f);
+            p.transform.localRotation = Quaternion.Euler(-1.0f, 60.0f, 120.0f);
 
         }
         else
