@@ -56,7 +56,6 @@ public class PlayerMovement1 : MonoBehaviour
     public void OnMove(float context)
     {
         dirX = context;
-        Debug.Log(context);
         rb.velocity = new Vector2(dirX * moveSpeed, rb.velocity.y);
         UpdateMovementAnimations();
     }
