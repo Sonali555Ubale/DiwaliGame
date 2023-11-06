@@ -3627,7 +3627,7 @@ VisualEffectResource:
         - m_ExpressionIndex: 6
           m_Value: 0.333
         - m_ExpressionIndex: 7
-          m_Value: 8
+          m_Value: 7
         - m_ExpressionIndex: 8
           m_Value: -0.333
         - m_ExpressionIndex: 9
@@ -3635,7 +3635,7 @@ VisualEffectResource:
         - m_ExpressionIndex: 10
           m_Value: 0
         - m_ExpressionIndex: 11
-          m_Value: 8
+          m_Value: 7
         - m_ExpressionIndex: 13
           m_Value: 0.4206236
         - m_ExpressionIndex: 14
@@ -5117,7 +5117,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEditor.VFX.Vector, Unity.VisualEffectGraph.Editor,
           Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"vector":{"x":-0.3330000042915344,"y":8.0,"z":0.3330000042915344}}'
+      m_SerializableObject: '{"vector":{"x":-0.3330000042915344,"y":7.0,"z":0.3330000042915344}}'
     m_Space: 0
   m_Property:
     name: A
@@ -5299,7 +5299,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEditor.VFX.Vector, Unity.VisualEffectGraph.Editor,
           Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"vector":{"x":0.3330000042915344,"y":8.0,"z":0.3330000042915344}}'
+      m_SerializableObject: '{"vector":{"x":0.3330000042915344,"y":7.0,"z":0.3330000042915344}}'
     m_Space: 0
   m_Property:
     name: B
