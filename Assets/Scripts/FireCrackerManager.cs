@@ -12,6 +12,9 @@ public class FireCrackerManager : MonoBehaviour
     [SerializeField]
     private GameObject[] FireCrackers;
 
+    [SerializeField]
+    private GameObject BigCutScene; // enable disable cutscene
+
     void Start()
     {
         FireCrackerType = PlayerPrefs.GetInt("FireCrackerType", 0);
@@ -23,5 +26,11 @@ public class FireCrackerManager : MonoBehaviour
         if (FireCrackerType < 0 || FireCrackerType > FireCrackers.Length - 1) FireCrackerType = 0;
 
         CurretFireCracker = GameObject.Instantiate(FireCrackers[FireCrackerType], SpawnPoint);
+    }
+
+
+    public void PlayCutsctScene()
+    {
+        if(BigCutScene != null) BigCutScene.SetActive(true);
     }
 }

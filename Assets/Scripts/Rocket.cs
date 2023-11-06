@@ -18,8 +18,7 @@ public class Rocket : MonoBehaviour, IFireCracackerBurst
     [SerializeField]
     public UnityEvent OnTxtExEvent = new UnityEvent();
     [SerializeField]
-    private VisualEffect Texteffect;
-
+    private float cutscenetime = 0.1f;
     private AudioSource RocketSound;
 
 
@@ -60,14 +59,16 @@ public class Rocket : MonoBehaviour, IFireCracackerBurst
 
     void PlayRocketEffect()
     {
-        Texteffect.Play();
-        effect.Stop();
-      
+       // effect.Stop();
+        Invoke("PlayCustscen", cutscenetime);
     }
     private void PlaySoundEffect()
     {
         RocketSound.Play();
     }
+    void PlayCustscen()
+    {
+        FindObjectOfType<FireCrackerManager>()?.PlayCutsctScene(); // complex line just finds object check if its null using ?. operation if not null then calls function
+    }
 
-    
 }

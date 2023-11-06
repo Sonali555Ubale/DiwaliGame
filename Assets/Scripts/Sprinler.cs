@@ -12,6 +12,8 @@ public class Sprinler : MonoBehaviour, IFireCracackerBurst
 
     [SerializeField]
     public UnityEvent OnExEvent = new UnityEvent();
+    [SerializeField]
+    private float cutscenetime = 3f;
 
     public void Start()
     {
@@ -36,10 +38,17 @@ public class Sprinler : MonoBehaviour, IFireCracackerBurst
     private void PlaySprinkler()
     {
         Sprinkler.Play();
+        Invoke("PlayCustscen", cutscenetime);
     }
+
     public void OnTriggerEnter2D(Collider2D collision)
     {
         Debug.Log(collision.tag);
         if (collision.tag.Equals("Firecracker")) ExecuteFireCracker();
+    }
+
+    void PlayCustscen()
+    {
+        FindObjectOfType<FireCrackerManager>()?.PlayCutsctScene(); // complex line just finds object check if its null using ?. operation if not null then calls function
     }
 }

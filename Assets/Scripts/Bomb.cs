@@ -12,6 +12,8 @@ public class Bomb : MonoBehaviour, IFireCracackerBurst
     private AudioSource Explosion;
     public float delay = 0f;
     float timer;
+    [SerializeField]
+    private float cutscenetime = 3f;
 
     public void Start()
     {
@@ -40,6 +42,7 @@ public class Bomb : MonoBehaviour, IFireCracackerBurst
     private void PlaySoundEffect()
     {
        Explosion.Play();
+       Invoke("PlayCustscen", cutscenetime);
     }
     public void OnTriggerEnter2D(Collider2D collision)
     {
@@ -50,5 +53,10 @@ public class Bomb : MonoBehaviour, IFireCracackerBurst
     void IFireCracackerBurst.ExecuteFireCracker()
     {
        
+    }
+
+    void PlayCustscen()
+    {
+        FindObjectOfType<FireCrackerManager>()?.PlayCutsctScene(); // complex line just finds object check if its null using ?. operation if not null then calls function
     }
 }
