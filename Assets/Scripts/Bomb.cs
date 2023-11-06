@@ -29,8 +29,9 @@ public class Bomb : MonoBehaviour, IFireCracackerBurst
         if (!used) {
             if (timer > delay)
             {
-                OnExEvent.Invoke(); used = true;
-                Invoke("PlaySoundEffect", 0f);
+                OnExEvent.Invoke(); 
+                Invoke("PlaySoundEffect", 0.5f);
+                used = true;
             }
             
         }
@@ -48,6 +49,6 @@ public class Bomb : MonoBehaviour, IFireCracackerBurst
 
     void IFireCracackerBurst.ExecuteFireCracker()
     {
-       // if (collision.tag.Equals("Firecracker")) ExecuteFireCracker();
+       
     }
 }

@@ -17,7 +17,7 @@ TagManager:
   - Firework
   - Background
   - Foreground
-  - 
+  - post processing
   - 
   - 
   - 
@@ -50,4 +50,7 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 3440678687
+    locked: 0
+  - name: post processing
+    uniqueID: 1966874093
     locked: 0
