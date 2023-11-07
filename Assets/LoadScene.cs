@@ -10,4 +10,9 @@ public class LoadScene : MonoBehaviour
         SceneManager.LoadScene(0);
 
     }
+    public void OnExitButton()
+    {
+        Application.Quit();
+
+    }
 }

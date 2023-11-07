@@ -6979,11 +6979,11 @@ VisualEffectResource:
         - m_ExpressionIndex: 26
           m_Value: 0
         - m_ExpressionIndex: 27
-          m_Value: 0
+          m_Value: -1
         - m_ExpressionIndex: 28
           m_Value: -1
         - m_ExpressionIndex: 29
-          m_Value: 0
+          m_Value: 1
         - m_ExpressionIndex: 30
           m_Value: 0
         - m_ExpressionIndex: 31
@@ -6991,7 +6991,7 @@ VisualEffectResource:
         - m_ExpressionIndex: 32
           m_Value: 0.333
         - m_ExpressionIndex: 33
-          m_Value: 2
+          m_Value: 0
         - m_ExpressionIndex: 34
           m_Value: 7
         - m_ExpressionIndex: 35
@@ -7047,7 +7047,7 @@ VisualEffectResource:
         - m_ExpressionIndex: 64
           m_Value: 6
         - m_ExpressionIndex: 65
-          m_Value: 0.2
+          m_Value: 1
         - m_ExpressionIndex: 66
           m_Value: 5
         - m_ExpressionIndex: 67
@@ -7057,7 +7057,7 @@ VisualEffectResource:
         - m_ExpressionIndex: 70
           m_Value: 0
         - m_ExpressionIndex: 72
-          m_Value: 5
+          m_Value: 4.4
         - m_ExpressionIndex: 73
           m_Value: 0
         - m_ExpressionIndex: 74
@@ -9468,7 +9468,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEditor.VFX.Vector, Unity.VisualEffectGraph.Editor,
           Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"vector":{"x":2.0,"y":7.0,"z":0.3330000042915344}}'
+      m_SerializableObject: '{"vector":{"x":0.0,"y":7.0,"z":0.3330000042915344}}'
     m_Space: 0
   m_Property:
     name: B
@@ -10136,7 +10136,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEditor.VFX.Line, Unity.VisualEffectGraph.Editor,
           Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"start":{"x":0.0,"y":0.0,"z":0.0},"end":{"x":0.0,"y":0.0,"z":0.0}}'
+      m_SerializableObject: '{"start":{"x":0.0,"y":0.0,"z":0.0},"end":{"x":-1.0,"y":1.0,"z":0.0}}'
     m_Space: 0
   m_Property:
     name: line
@@ -13119,7 +13119,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"x":0.20000000298023225,"y":5.0,"z":1.0}'
+      m_SerializableObject: '{"x":1.0,"y":5.0,"z":1.0}'
     m_Space: 2147483647
   m_Property:
     name: Scale
@@ -21220,7 +21220,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEditor.VFX.Line, Unity.VisualEffectGraph.Editor,
           Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"start":{"x":-8.0,"y":5.0,"z":0.0},"end":{"x":13.0,"y":6.0,"z":0.0}}'
+      m_SerializableObject: '{"start":{"x":-8.0,"y":4.400000095367432,"z":0.0},"end":{"x":13.0,"y":6.0,"z":0.0}}'
     m_Space: 0
   m_Property:
     name: line
