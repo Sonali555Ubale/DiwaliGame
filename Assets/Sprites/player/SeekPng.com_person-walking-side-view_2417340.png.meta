@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: aa40fd296739f904b91836a67258a162
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2194965825698757908
+    second: SeekPng.com_person-walking-side-view_2417340_0
+  - first:
+      213: 7642992707450557767
+    second: SeekPng.com_person-walking-side-view_2417340_1
+  - first:
+      213: 6909849727623371044
+    second: SeekPng.com_person-walking-side-view_2417340_2
+  - first:
+      213: -6833259525779286401
+    second: SeekPng.com_person-walking-side-view_2417340_3
+  - first:
+      213: 5786816113062164533
+    second: SeekPng.com_person-walking-side-view_2417340_4
+  - first:
+      213: -6860941149631738283
+    second: SeekPng.com_person-walking-side-view_2417340_5
+  - first:
+      213: -7916923455765152290
+    second: SeekPng.com_person-walking-side-view_2417340_6
+  - first:
+      213: -8710342958092735702
+    second: SeekPng.com_person-walking-side-view_2417340_7
+  - first:
+      213: -5884739765311725659
+    second: SeekPng.com_person-walking-side-view_2417340_8
+  - first:
+      213: -161547932420986386
+    second: SeekPng.com_person-walking-side-view_2417340_9
+  - first:
+      213: 8636755617657357605
+    second: SeekPng.com_person-walking-side-view_2417340_10
+  - first:
+      213: -1023441878396210340
+    second: SeekPng.com_person-walking-side-view_2417340_11
+  - first:
+      213: -2851744841572137187
+    second: SeekPng.com_person-walking-side-view_2417340_12
+  - first:
+      213: -2421388014370493366
+    second: SeekPng.com_person-walking-side-view_2417340_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SeekPng.com_person-walking-side-view_2417340_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 83.333336
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce28a11063ae981e0800000000000000
+      internalID: -2194965825698757908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_person-walking-side-view_2417340_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 252
+        width: 83.333336
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745dd748f5d511a60800000000000000
+      internalID: 7642992707450557767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_person-walking-side-view_2417340_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 252
+        width: 83.333336
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4291252a7b7b4ef50800000000000000
+      internalID: 6909849727623371044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_person-walking-side-view_2417340_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 252
+        width: 83.333336
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f761fdb5aa26b21a0800000000000000
+      internalID: -6833259525779286401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_person-walking-side-view_2417340_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 252
+        width: 83.333336
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538b39f4896ee4050800000000000000
+      internalID: 5786816113062164533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_person-walking-side-view_2417340_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 252
+        width: 83.333336
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e075f006a09c0a0800000000000000
+      internalID: -6860941149631738283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_person-walking-side-view_2417340_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 83.333336
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddf8290010712290800000000000000
+      internalID: -7916923455765152290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_person-walking-side-view_2417340_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 126
+        width: 83.333336
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bae0f9a35ae1780800000000000000
+      internalID: -8710342958092735702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_person-walking-side-view_2417340_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 126
+        width: 83.333336
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af9af4bc54355ea0800000000000000
+      internalID: -5884739765311725659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_person-walking-side-view_2417340_9
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 126
+        width: 83.333336
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee929d9e20112cdf0800000000000000
+      internalID: -161547932420986386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_person-walking-side-view_2417340_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 126
+        width: 83.333336
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525835a897bebd770800000000000000
+      internalID: 8636755617657357605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_person-walking-side-view_2417340_11
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 126
+        width: 83.333336
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c537fe5b8010cc1f0800000000000000
+      internalID: -1023441878396210340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_person-walking-side-view_2417340_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 83.333336
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d174a000d219c68d0800000000000000
+      internalID: -2851744841572137187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_person-walking-side-view_2417340_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 83.333336
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cee041e60856ed0800000000000000
+      internalID: -2421388014370493366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
