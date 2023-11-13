@@ -34,6 +34,22 @@ GraphicsSettings:
   - {fileID: 16000, guid: 0000000000000000f000000000000000, type: 0}
   - {fileID: 16001, guid: 0000000000000000f000000000000000, type: 0}
   - {fileID: 17000, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4800002, guid: c859fe014c0ccb3478f326bb033dbfae, type: 3}
+  - {fileID: 4800000, guid: c859fe014c0ccb3478f326bb033dbfae, type: 3}
+  - {fileID: 4800004, guid: c859fe014c0ccb3478f326bb033dbfae, type: 3}
+  - {fileID: 4800006, guid: c859fe014c0ccb3478f326bb033dbfae, type: 3}
+  - {fileID: 4800002, guid: 145d296f69d790a4b9002e871528a3df, type: 3}
+  - {fileID: 4800000, guid: 145d296f69d790a4b9002e871528a3df, type: 3}
+  - {fileID: 4800004, guid: 145d296f69d790a4b9002e871528a3df, type: 3}
+  - {fileID: 4800002, guid: 31ff23d0f10ad85449355655c2853318, type: 3}
+  - {fileID: 4800000, guid: 31ff23d0f10ad85449355655c2853318, type: 3}
+  - {fileID: 4800004, guid: 31ff23d0f10ad85449355655c2853318, type: 3}
+  - {fileID: 4800006, guid: 31ff23d0f10ad85449355655c2853318, type: 3}
+  - {fileID: 4800008, guid: 31ff23d0f10ad85449355655c2853318, type: 3}
+  - {fileID: 4800010, guid: 31ff23d0f10ad85449355655c2853318, type: 3}
+  - {fileID: 4800012, guid: 31ff23d0f10ad85449355655c2853318, type: 3}
+  - {fileID: 4800014, guid: 31ff23d0f10ad85449355655c2853318, type: 3}
+  - {fileID: 4800000, guid: 977926f85b1b4f34b91b2cf3eecc57f0, type: 3}
   m_PreloadedShaders: []
   m_SpritesDefaultMaterial: {fileID: 10754, guid: 0000000000000000f000000000000000,
     type: 0}
@@ -59,5 +75,5 @@ GraphicsSettings:
   m_AlbedoSwatchInfos: []
   m_LightsUseLinearIntensity: 0
   m_LightsUseColorTemperature: 0
-  m_LogWhenShaderIsCompiled: 0
+  m_LogWhenShaderIsCompiled: 1
   m_AllowEnlightenSupportForUpgradedProject: 1
